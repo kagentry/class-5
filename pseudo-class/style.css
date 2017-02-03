@@ -1,0 +1,10 @@
+a:active {
+	color:grey;
+	
+}
+a:hover {
+	color:pink;
+}
+a:focus {
+	color: green;
+}
